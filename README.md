@@ -36,7 +36,7 @@ functionality in new code we write.
 
 Before we can create a `package.json` file, we'll need a project and a project
 folder to contain all the files. For this code-along, we'll be building out a
-clock application that changes color every second.
+clock application that changes color every second
 
 In this lesson, a sub-folder has been created for us to use, `color-clock`, that
 contains some basic starter files for a project. If you look at
